@@ -38,6 +38,6 @@
 </head>
 <body>
     <h1>ZHPORPH WR UDFNWRQ</h1>
-    <input type="text" id="secretCode" placeholder="Enter the secret code..." onkeypress="if(event.key === 'Enter') checkCode()">
+    <input type="text" id="secretCode" placeholder="Enter the code..." onkeypress="if(event.key === 'Enter') checkCode()">
 </body>
 </html>
